@@ -56,12 +56,21 @@ section{
 .box3{
     width :30%;
     height: 320px;
-    background-color: rgba(238, 198, 184, 0.603);
+   
     margin: 20px;
     padding: 25px 20px;
     padding-bottom: 40px;
     border-radius: 35px;
     
+}
+#col1{
+    background-color: rgba(238, 198, 184, 0.603);
+}
+#col2{
+    background-color: rgb(235, 183, 232);
+}
+#col3{
+    background-color: rgb(213, 238, 199);
 }
 .choto{
     width: 150px;
